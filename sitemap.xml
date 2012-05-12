@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/php/dev/wordpress/www/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.3.2" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.7" -->
+<!-- generated-on="2012 年 5 月 5 日 pm 2:36" -->
+<!-- Debug: Total comment count: 4 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://localhost/php/dev/wordpress/www/</loc>
+		<lastmod>2012-05-05T14:36:31+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 10: Comments: 1 of 4 = 0.3 points -->
+	<url>
+		<loc>http://localhost/php/dev/wordpress/www/life-passwords/</loc>
+		<lastmod>2012-05-05T14:36:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>http://localhost/php/dev/wordpress/www/%e5%bd%92%e6%a1%a3/</loc>
+		<lastmod>2012-05-05T14:08:50+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/php/dev/wordpress/www/%e9%93%be%e6%8e%a5/</loc>
+		<lastmod>2012-05-05T14:08:11+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/php/dev/wordpress/www/%e7%95%99%e8%a8%80/</loc>
+		<lastmod>2012-05-05T14:07:35+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1: Comments: 3 of 4 = 0.8 points -->
+	<url>
+		<loc>http://localhost/php/dev/wordpress/www/hello-world/</loc>
+		<lastmod>2012-05-01T14:54:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://localhost/php/dev/wordpress/www/sample-page/</loc>
+		<lastmod>2012-05-01T14:54:50+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>

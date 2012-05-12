@@ -1,0 +1,477 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-PostViews Plus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-21 15:22+0800\n"
+"PO-Revision-Date: 2012-04-21 15:22+0800\n"
+"Last-Translator: Richer Yang <fantasyworldidvtw@gmail.com>\n"
+"Language-Team:  <suvizhang@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: China\n"
+"X-Poedit-SourceCharset: gb2312\n"
+"X-Poedit-SearchPath-0: ./..\n"
+
+#: ../admin.php:5
+msgid "Settings"
+msgstr "设定"
+
+#: ../admin.php:12
+msgid "PostViews+"
+msgstr "浏览数+"
+
+#: ../admin.php:54
+msgid "Updated Options Success"
+msgstr "成功的更新设定"
+
+#: ../admin.php:70
+#: ../admin.php:74
+#: ../postviews_plus.php:519
+#: ../postviews_plus.php:523
+msgid "views"
+msgstr "浏览数"
+
+#: ../admin.php:71
+#: ../postviews_plus.php:520
+msgid "user views"
+msgstr "使用者浏览数"
+
+#: ../admin.php:72
+#: ../postviews_plus.php:521
+msgid "bot views"
+msgstr "机器人浏览数"
+
+#: ../admin.php:76
+msgid "Reset Optionsto Default Success"
+msgstr "成功的恢复到预设值"
+
+#: ../admin.php:82
+#: ../admin.php:329
+msgid "UNINSTALL WP-PostViews Plus"
+msgstr "停用 WP-PostViews Plus"
+
+#: ../admin.php:87
+#: ../admin.php:96
+#: ../admin.php:121
+#, php-format
+msgid "Post Meta Key '%s' has been deleted."
+msgstr "文章自订栏位 '%s' 已经被删除"
+
+#: ../admin.php:91
+#: ../admin.php:100
+#: ../admin.php:125
+#, php-format
+msgid "Error deleting Post Meta Key '%s'."
+msgstr "文章自订栏位 '%s' 删除失败"
+
+#: ../admin.php:107
+#, php-format
+msgid "Setting Key '%s' has been deleted."
+msgstr "设定值 '%s' 已经被删除"
+
+#: ../admin.php:111
+#, php-format
+msgid "Error deleting Setting Key '%s'."
+msgstr "设定值 '%s' 删除失败"
+
+#: ../admin.php:136
+#: ../admin.php:296
+msgid "Uninstall WP-PostViews Plus"
+msgstr "停用 WP-PostViews Plus"
+
+#: ../admin.php:137
+#, php-format
+msgid "<a href=\"%s\">Click Here</a> To Finish The Uninstallation And WP-PostViews Plus Will Be Deactivated Automatically."
+msgstr "<a href=\"%s\">点击这里</a>来完成删除动作， WP-PostViews Plus 将会被自动停用。"
+
+#: ../admin.php:148
+msgid "Post Views Plus Options"
+msgstr "Post Views Plus 设定"
+
+#: ../admin.php:151
+msgid "Basic Options"
+msgstr "基本设定"
+
+#: ../admin.php:154
+msgid "Count Views From:"
+msgstr "计数器动作："
+
+#: ../admin.php:157
+msgid "Everyone"
+msgstr "所有人"
+
+#: ../admin.php:158
+msgid "Guests Only"
+msgstr "只有访客"
+
+#: ../admin.php:159
+msgid "Registered Users Only"
+msgstr "只有注册的使用者"
+
+#: ../admin.php:164
+msgid "Reflash check:"
+msgstr "放灌水检查："
+
+#: ../admin.php:168
+msgid "Close"
+msgstr "关闭"
+
+#: ../admin.php:169
+msgid "Open"
+msgstr "开启"
+
+#: ../admin.php:171
+msgid "Check is based on IP."
+msgstr "基于IP检查"
+
+#: ../admin.php:175
+msgid "Reflash timeout:"
+msgstr "灌水检查时间："
+
+#: ../admin.php:177
+msgid "second."
+msgstr "秒。"
+
+#: ../admin.php:182
+msgid "Views Template:"
+msgstr "浏览器显示样板："
+
+#: ../admin.php:184
+msgid "All views:"
+msgstr "所有浏览数："
+
+#: ../admin.php:187
+#: ../admin.php:194
+#: ../admin.php:201
+#: ../admin.php:210
+msgid "Allowed Variables:"
+msgstr "允许的变量"
+
+#: ../admin.php:191
+msgid "Only user views:"
+msgstr "只有使用者浏览数："
+
+#: ../admin.php:198
+msgid "Only bot views:"
+msgstr "只有机器人浏览数："
+
+#: ../admin.php:206
+msgid "Most Viewed Template:"
+msgstr "最多浏览的样板："
+
+#: ../admin.php:215
+msgid "BOT User_agent:"
+msgstr "机器人的 User_agent"
+
+#: ../admin.php:219
+msgid "For each BOT user_agent one line."
+msgstr "每一个 BOT User_agent 一行"
+
+#: ../admin.php:226
+msgid "Display Options"
+msgstr "显示设定"
+
+#: ../admin.php:229
+msgid "Home Page:"
+msgstr "首页："
+
+#: ../admin.php:232
+#: ../admin.php:243
+#: ../admin.php:253
+#: ../admin.php:263
+#: ../admin.php:273
+#: ../admin.php:283
+msgid "Display to everyone"
+msgstr "显示给所有人"
+
+#: ../admin.php:233
+#: ../admin.php:244
+#: ../admin.php:254
+#: ../admin.php:264
+#: ../admin.php:274
+#: ../admin.php:284
+msgid "Display to registered users only"
+msgstr "只显示给注册者"
+
+#: ../admin.php:234
+msgid "Don't display on home page"
+msgstr "在首页不显示"
+
+#: ../admin.php:237
+msgid "These options specify where the view counts should be displayed and to whom.<br />Note that the theme files must contain a call to <code>the_views()</code> in order for any view count to be displayed."
+msgstr "这个选项让你可以针对指定版面决定是否显示浏览数<br />注意：主题样板中必须调用 <code>the_views()</code> 系列函数来显示浏览次数。"
+
+#: ../admin.php:240
+msgid "Singe Posts:"
+msgstr "单篇文章："
+
+#: ../admin.php:245
+msgid "Don't display on single posts"
+msgstr "不要再单篇文章页面显示"
+
+#: ../admin.php:250
+msgid "Pages:"
+msgstr "独立分页："
+
+#: ../admin.php:255
+msgid "Don't display on pages"
+msgstr "不要在独立页面显示"
+
+#: ../admin.php:260
+msgid "Archive Pages:"
+msgstr "归档页面："
+
+#: ../admin.php:265
+msgid "Don't display on archive pages"
+msgstr "不要在归档页面显示"
+
+#: ../admin.php:270
+msgid "Search Pages:"
+msgstr "搜寻页面"
+
+#: ../admin.php:275
+msgid "Don't display on search pages"
+msgstr "不要在搜寻页面显示"
+
+#: ../admin.php:280
+msgid "Other Pages:"
+msgstr "其他页面："
+
+#: ../admin.php:285
+msgid "Don't display on other pages"
+msgstr "不要在其他页面显示"
+
+#: ../admin.php:291
+msgid "Save Changes"
+msgstr "保存变更"
+
+#: ../admin.php:292
+msgid "Reset to Default"
+msgstr "重置预设值"
+
+#: ../admin.php:297
+msgid "Deactivating WP-PostViews Plus plugin does not remove any data that may have been created, such as the views data. To completely remove this plugin, you can uninstall it here."
+msgstr "停用 WP-PostViews Plus 不会溢出任何由其建立的资料，例如浏览数。为了完整的移除，您可以从这里移除。"
+
+#: ../admin.php:298
+msgid "WARNING:"
+msgstr "注意："
+
+#: ../admin.php:298
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to back up all the data first."
+msgstr "一旦删除之后，将无法复原。如果您想要保留资料请先行将 WordPress 的资料库备份"
+
+#: ../admin.php:299
+#: ../admin.php:300
+#, php-format
+msgid "The database table <strong>%s</strong> will be DELETED."
+msgstr "资料表 <strong>%s</strong> 将被删除"
+
+#: ../admin.php:301
+msgid "The following WordPress Options/PostMetas will be DELETED:"
+msgstr "以下的 WordPress 设定与文章的自订栏位将被删除："
+
+#: ../admin.php:304
+msgid "WordPress Options"
+msgstr "WordPress 设定值"
+
+#: ../admin.php:305
+msgid "WordPress PostMetas"
+msgstr "文章自订栏位"
+
+#: ../admin.php:328
+msgid "Yes"
+msgstr "是的"
+
+#: ../admin.php:329
+msgid ""
+"You Are About To Uninstall WP-PostViews Plus From WordPress.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose [Cancel] To Stop, [OK] To Uninstall."
+msgstr ""
+"您将从 WordPress 删除 WP-PostViews Plus \\n"
+"此动作是不可逆转的。\\n"
+"\\n"
+"点选 [取消] 来终止删除， [确定]执行删除"
+
+#: ../admin.php:332
+msgid "Thank"
+msgstr "感谢"
+
+#: ../admin.php:333
+msgid "Translation contributors"
+msgstr "翻译贡献者"
+
+#: ../postviews_plus.php:326
+msgid "There is no excerpt because this is a protected post."
+msgstr "文章首密码保护，无法产生摘要。"
+
+#: ../postviews_plus.php:392
+msgid "N/A"
+msgstr "沒有文章"
+
+#: ../widget.php:15
+msgid "WP-PostViews plus views statistics"
+msgstr "WP-PostViews plus 的浏览排行"
+
+#: ../widget.php:16
+msgid "Views Stats"
+msgstr "浏览数排行"
+
+#: ../widget.php:79
+msgid "Views"
+msgstr "浏览数"
+
+#: ../widget.php:93
+msgid "Title:"
+msgstr "标题："
+
+#: ../widget.php:97
+msgid "Statistics Type:"
+msgstr "排行方式："
+
+#: ../widget.php:99
+#: ../widget.php:111
+msgid "Most Viewed"
+msgstr "最多浏览人数"
+
+#: ../widget.php:100
+msgid "Most Viewed By Category"
+msgstr "以分类最多人浏览"
+
+#: ../widget.php:101
+msgid "Most Viewed By Tag"
+msgstr "依标签最多人浏览"
+
+#: ../widget.php:105
+msgid "Include Views From:"
+msgstr "包含的页面形式："
+
+#: ../widget.php:107
+msgid "Posts &amp; Pages"
+msgstr "文章 &amp; 分页"
+
+#: ../widget.php:108
+msgid "Posts Only"
+msgstr "只有文章"
+
+#: ../widget.php:109
+msgid "Pages Only"
+msgstr "只有分页"
+
+#: ../widget.php:111
+msgid "Only work with "
+msgstr "只作用于"
+
+#: ../widget.php:114
+msgid "Category IDs:"
+msgstr "分类 ID："
+
+#: ../widget.php:124
+#: ../widget.php:129
+msgid "Seperate mutiple categories with commas."
+msgstr "多个分类以 ',' 区分"
+
+#: ../widget.php:127
+msgid "Tag IDs:"
+msgstr "标签 ID："
+
+#: ../widget.php:132
+msgid "No. Of Records To Show:"
+msgstr "显示的文章数量："
+
+#: ../widget.php:135
+msgid "Maximum Post Title Length (Characters):"
+msgstr "最多标题字数："
+
+#: ../widget.php:136
+msgid "<strong>0</strong> to disable."
+msgstr "<strong>0</strong> 不限制"
+
+#: ../widget.php:136
+msgid " Chinese characters to calculate the two words!"
+msgstr "中文字计算为2字数"
+
+#: ../widget.php:139
+msgid "With BOT Views:"
+msgstr "包含机器人的浏览："
+
+#: ../widget.php:141
+msgid "With BOT"
+msgstr "包含机器人"
+
+#: ../widget.php:142
+msgid "Without BOT"
+msgstr "不包含机器人"
+
+#~ msgid ""
+#~ "* If you are not using any category or tag statistics, you can ignore it."
+#~ msgstr "* 如果你不使用分类或标签也行，你不需理会。"
+
+#~ msgid "Reset Post View Timws Success"
+#~ msgstr "成功的重置浏览数"
+
+#~ msgid "Cleared User User_agent Success"
+#~ msgstr "成功的清除使用者的 User_agent"
+
+#~ msgid "Update BOT User_agent Success"
+#~ msgstr "成功的更新机器人的 User_agent"
+
+#~ msgid "Report BOT User_agent Success"
+#~ msgstr "成功的回报机器人的 User_agent"
+
+#~ msgid "Report BOT User_agent Fail"
+#~ msgstr "失败的回报机器人的 User_agent"
+
+#~ msgid "Reset Bot User_agent Success"
+#~ msgstr "成功的重置机器人的 User_agent"
+
+#~ msgid "Remember the User_agent Of User."
+#~ msgstr "记住访客的 User_agent."
+
+#~ msgid "Add views number if User is logoin."
+#~ msgstr "当使用者登入后也计算文章阅览数."
+
+#~ msgid "In every %s minute is redundant IP does not calculate views number."
+#~ msgstr "每 %s 分钟内重复的 IP 不计算浏览数."
+
+#~ msgid ""
+#~ "Output format of most views. (%1$s: Views number. %2$s: Post link. %3$s: "
+#~ "Post Date.)"
+#~ msgstr "最多人浏览的输出格式. (%1$s:浏览数. %2$s: 文章链接. %3$s:发布日期)"
+
+#~ msgid "without bot views."
+#~ msgstr "不包含机器人."
+
+#~ msgid "Reset Option"
+#~ msgstr "重置设定"
+
+#~ msgid "User User_agent"
+#~ msgstr "使用者的 User_agent"
+
+#~ msgid "Clear User User_agent record"
+#~ msgstr "消除使用者的 User_agent 记录"
+
+#~ msgid ""
+#~ "Here are a list of Bot User_agent. Start each User_agent on a new line."
+#~ msgstr "这是检查机器人所使用的 User_agent 的清单.每一个 User_agent 在一行."
+
+#~ msgid "Update BOT User_agent"
+#~ msgstr "更新机器人的 User_agent"
+
+#~ msgid "Reset BOT User_agent"
+#~ msgstr "重置机器人的 User_agent"
+
+#~ msgid "Add Views number in Blog Index Page."
+#~ msgstr "在部落格首页的阅览计算值文章阅览数内."
+
+#, fuzzy
+#~ msgid "Output format of most views. (%1$s: Views number. %2$s: Post link.)1"
+#~ msgstr "最多人浏览的输出格式. (%1$s:浏览数. %2$s: 文章链接.)"
+
+#~ msgid "Output format of most views. (%1$s: Post link. %2$s: Views number.)"
+#~ msgstr "最多人浏览的输出格式. (%1$s:浏览数. %2$s: 文章链接.)"

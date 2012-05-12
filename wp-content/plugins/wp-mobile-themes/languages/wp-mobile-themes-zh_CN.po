@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Mobile Themes 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-04 19:54+0800\n"
+"PO-Revision-Date: 2011-10-05 10:44+0800\n"
+"Last-Translator: MG12 <wuzhao.mail@gmail.com>\n"
+"Language-Team: NeoEase.com <http://www.neoease.com/plugins/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-mobile-themes.php:23
+msgid "Settings"
+msgstr "设置"
+
+#: wp-mobile-themes.php:72
+#: wp-mobile-themes.php:126
+msgid "Mobile Themes"
+msgstr "手机主题"
+
+#: wp-mobile-themes.php:86
+msgid "Mobile Themes Options"
+msgstr "手机主题选项"
+
+#: wp-mobile-themes.php:91
+msgid "Donation"
+msgstr "捐款"
+
+#: wp-mobile-themes.php:93
+msgid "If you like this plugin, please donate to support development and maintenance!"
+msgstr "如果你喜欢这个插件，可以捐款支持作者对作品的开发和维护。"
+
+#: wp-mobile-themes.php:107
+msgid "More Plugins by MG12"
+msgstr "其他 MG12 发布的插件"
+
+#: wp-mobile-themes.php:139
+msgid " (deault)"
+msgstr "（默认主题）"
+
+#: wp-mobile-themes.php:147
+#, php-format
+msgid "The theme that will be sent to mobile users. Desktop users will receive <a href=\"/wp-admin/themes.php\">%1$s</a>."
+msgstr "使用手机访问网站的用户将看到这个主题界面，而一般桌面用户依然看到 <a href=\"/wp-admin/themes.php\">%1$s</a> 主题界面。"
+
+#: wp-mobile-themes.php:155
+msgid "Save Changes"
+msgstr "保存更改"
+
